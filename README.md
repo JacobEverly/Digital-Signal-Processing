@@ -1,3 +1,3 @@
 # Digital-Signal-Processing
 
-Homeworks from Cornell Graduate program focused on Digital Signal Processing.
+Applications of Digital Signal Processing implememted in python.
